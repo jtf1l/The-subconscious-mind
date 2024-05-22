@@ -1,0 +1,110 @@
+.menu ul{ 
+
+background-color: #DCDCDC
+
+overflow: auto; 
+}
+
+.menu ul {
+
+text-align: center;
+
+padding-top: 20px;
+
+padding-bottom: 20px;
+
+text-decoration: none;
+
+}
+
+.menu li {
+
+display: inline-block;
+
+text-align: center;
+
+}
+
+.menu li a {
+
+display: inline-block;
+
+height: auto;
+
+width: 150px;
+
+color: # 808080;
+
+background-color: #FFB6C1;
+
+padding: 10px;
+
+margin: 4px;
+
+text-align: center;
+
+font-size: 18px;
+
+font-weight: bold;
+
+text-decoration: none;
+
+border-radius: 4px;
+
+}
+
+body {text-align: center; }
+    h1{ color: rgb(95, 46, 70);}
+    .photos {overflow: auto;
+  background-color: rgb(125, 117, 122);}
+  .photos img { border-style: solid;
+      border-width: 6px;
+      border-color: rgb(239, 221, 231);
+      border: radius 6px; ;
+      margin: 2px;
+      object-position: top;}
+   .footer {overflow: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color:  rgb(206, 163, 186);
+    font-size: 20px;}
+  .footer ul { padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;}
+  .footer li { display: inline-block;}
+  .footer a { display: inline-block;
+    height: auto;
+    width: auto;
+    color: rgb(42, 16, 29);
+    background-color: rgba(253, 250, 252, 0.968);
+    padding: 10px;
+    margin: 4px;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;}
+
+  <style>
+ div{
+text-align:center;
+font-size:26px;
+width: 50%;
+margin: 0 auto;
+padding: 15px;
+background: #ffd99b;
+}
+</style>
+</head>
+<body>
+<div>النص</div>
+
+<style> 
+ @media  screen  and  ( max-width:  800px ) {
+  img {
+ width : 70%;
+height : auto ;
+
+}
+}
+
+</body>
+ </html>
